@@ -1,5 +1,5 @@
 class Urls:
-    BASE_URL = "https://qa-stellarburgers.education-services.ru"
+    BASE_URL = "https://stellarburgers.education-services.ru"
     
     # Эндпоинты для работы с пользователем
     CREATE_USER = f"{BASE_URL}/api/auth/register"
