@@ -1,0 +1,1 @@
+{"uuid": "c59a3e97-252d-438b-aff7-222f791295e4", "children": ["c67325fd-6be1-4c65-baf6-c4473beed9fa"], "befores": [{"name": "kitchen_client", "status": "passed", "start": 1793271140689, "stop": 1793271140689}], "afters": [{"name": "kitchen_client::<lambda>", "start": 1793271141972}], "start": 1793271140689, "stop": 1793271141972}
